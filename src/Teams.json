@@ -1,0 +1,67 @@
+{
+    "India": {
+        "p1": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/shubman-gill.png"
+        },
+        "p2": {
+            "img": "https://pbs.twimg.com/media/FxsKQLNaEAAG1Fo.jpg:large"
+        },
+        "p3": {
+            "img": "https://gumlet.assettype.com/freepressjournal/2023-06/0b15954d-fc5d-4b29-b819-5ff768772bed/In_a_bid_to_speed_up_government_services_delivery__the_Pramod_Sawant_administration_will_be_setting_.jpg"
+        },
+        "p4": {
+            "img": "https://gumlet.assettype.com/freepressjournal/2023-06/0b15954d-fc5d-4b29-b819-5ff768772bed/In_a_bid_to_speed_up_government_services_delivery__the_Pramod_Sawant_administration_will_be_setting_.jpg"
+        },
+        "p5": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player5.png"
+        },
+        "p6": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player6.png"
+        },
+        "p7": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player7.png"
+        },
+        "p8": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player8.png"
+        },
+        "p9": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player9.png"
+        },
+        "p10": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player10.png"
+        }
+    },
+    "pak": {
+        "p1": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/shubman-gill.png"
+        },
+        "p2": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player2.png"
+        },
+        "p3": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player3.png"
+        },
+        "p4": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player4.png"
+        },
+        "p5": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player5.png"
+        },
+        "p6": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player6.png"
+        },
+        "p7": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player7.png"
+        },
+        "p8": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player8.png"
+        },
+        "p9": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player9.png"
+        },
+        "p10": {
+            "img": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/player10.png"
+        }
+    }
+
+}
